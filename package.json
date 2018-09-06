@@ -1,0 +1,15 @@
+{
+  "name": "cmxclient",
+  "version": "1.0.0",
+  "description": "Cisco CMX API Client examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristiano.sar@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
