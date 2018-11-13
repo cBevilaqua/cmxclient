@@ -13,7 +13,9 @@ npm i
 
 ### Running
 
-Simply run with npm start command or node index.js. Modify the code as your needs to test other CMX APIs resources.
+Simply run with npm start command or node index.js.
+The current example, only gets info about Maps, Buildings and Active Clients Locations.
+Modify the code as your needs to test other CMX APIs resources.
 
 ## License
 
